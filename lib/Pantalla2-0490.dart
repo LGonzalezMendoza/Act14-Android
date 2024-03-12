@@ -16,13 +16,14 @@ class Pantalla2_0490 extends StatelessWidget {
           width: double.infinity,
           height: 300,
           child: Card(
-            color: Colors.purple,
+            color: Colors.black,
             margin: EdgeInsets.all(32),
             child: Padding(
-              padding: EdgeInsets.all(16),
+              padding: EdgeInsets.all(65),
               child: Text(
                 'Ejemplo Gonzalez',
-                style: TextStyle(fontSize: 30, color: Colors.orange),
+                style: TextStyle(fontSize: 30, color: Colors.white),
+                textAlign: TextAlign.center,
               ),
             ),
           ),
