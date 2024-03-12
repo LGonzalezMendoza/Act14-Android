@@ -21,4 +21,9 @@ samples, guidance on mobile development, and a full API reference.
 ## Imagenes
 ![image](https://github.com/LGonzalezMendoza/Act14-ios/assets/143547970/791904db-1f43-4b82-b7ac-a4f73f54294a)
 ![image](https://github.com/LGonzalezMendoza/Act14-ios/assets/143547970/95754679-d77f-4211-9fd0-156e8b47f5ce)
-![image](https://github.com/LGonzalezMendoza/Act14-ios/assets/143547970/e8db466e-f67f-4baa-ba23-8394e7ae7dc6)
+![image](https://github.com/LGonzalezMendoza/Act14-ios/assets/143547970/2b7bb761-456f-4aea-8213-a9c71e84b89c)
+
+
+
+## Links de apoyo
+- https://github.com/flutter-teacher/card-widget/blob/main/card_test.dart
