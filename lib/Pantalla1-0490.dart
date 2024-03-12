@@ -13,16 +13,16 @@ class Pantalla1_0490 extends StatelessWidget {
         backgroundColor: Colors.blueGrey,
       ),
       body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-          children: [
-            ElevatedButton(
-              onPressed: () {
-                Navigator.pushNamed(context, '/Pantalla2_0490');
-              },
-              child: Text("Mover a Pantalla 2"),
-            )
-          ], // fin de nino
+        // Simple Card
+        child: Card(
+          color: Colors.yellow,
+          child: Padding(
+            padding: EdgeInsets.all(16),
+            child: Text(
+              'Ejemplo Gonzalez',
+              style: TextStyle(fontSize: 30, color: Colors.indigo),
+            ),
+          ),
         ),
       ),
     );

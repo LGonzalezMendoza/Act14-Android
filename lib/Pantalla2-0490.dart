@@ -11,7 +11,22 @@ class Pantalla2_0490 extends StatelessWidget {
         title: Text("P2 Gonzalez Leonardo  0490 "),
       ),
       body: Center(
-        child: Text("Pantalla 2"),
+        // Simple Card
+        child: Container(
+          width: double.infinity,
+          height: 300,
+          child: Card(
+            color: Colors.purple,
+            margin: EdgeInsets.all(32),
+            child: Padding(
+              padding: EdgeInsets.all(16),
+              child: Text(
+                'Ejemplo Gonzalez',
+                style: TextStyle(fontSize: 30, color: Colors.orange),
+              ),
+            ),
+          ),
+        ),
       ),
     );
   }
